@@ -1,0 +1,24 @@
+! hotel                             float64
+lead_time                         float64
+month                             float64
+arrival_date_week_number          float64
+day                               float64
+stays_in_weekend_nights           float64
+stays_in_week_nights              float64
+adults                            float64
+children                          float64
+babies                            float64
+! meal                              float64
+! market_segment                    float64
+! distribution_channel              float64
+is_repeated_guest                 float64
+previous_cancellations            float64
+previous_bookings_not_canceled    float64
+! reserved_room_type                float64
+! assigned_room_type                float64
+booking_changes                   float64
+! deposit_type                      float64
+days_in_waiting_list              float64
+! customer_type                     float64
+required_car_parking_spaces       float64
+total_of_special_requests         float64
